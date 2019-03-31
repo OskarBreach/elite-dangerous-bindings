@@ -471,11 +471,11 @@
 	</UIFocus>
 	<UIFocusMode Value="Bindings_FocusModeHold" />
 	<FocusLeftPanel>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="T16000M" DeviceIndex="1" Key="Joy_11" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusLeftPanel>
 	<FocusCommsPanel>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="T16000M" DeviceIndex="1" Key="Joy_12" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusCommsPanel>
 	<FocusOnTextEntryField Value="1" />
@@ -488,7 +488,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusRadarPanel>
 	<FocusRightPanel>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="T16000M" DeviceIndex="0" Key="Joy_11" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusRightPanel>
 	<LeftPanelFocusOptions Value="" />
