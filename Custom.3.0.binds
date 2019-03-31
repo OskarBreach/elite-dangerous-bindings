@@ -428,7 +428,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</EjectAllCargo>
 	<LandingGearToggle>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="T16000M" DeviceIndex="1" Key="Joy_9" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</LandingGearToggle>
 	<MicrophoneMute>
