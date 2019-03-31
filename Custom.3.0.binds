@@ -131,7 +131,7 @@
 		<Deadzone Value="0.00000000" />
 	</VerticalThrustAlternate>
 	<ThrottleAxis>
-		<Binding Device="T16000M" DeviceIndex="0" Key="Joy_ZAxis" />
+		<Binding Device="T16000M" DeviceIndex="1" Key="Joy_UAxis" />
 		<Inverted Value="1" />
 		<Deadzone Value="0.00000000" />
 	</ThrottleAxis>
