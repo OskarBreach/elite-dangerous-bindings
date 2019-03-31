@@ -63,7 +63,7 @@
 	</PitchDownButton>
 	<LateralThrustRaw>
 		<Binding Device="T16000M" DeviceIndex="1" Key="Joy_XAxis" />
-		<Inverted Value="1" />
+		<Inverted Value="0" />
 		<Deadzone Value="0.00000000" />
 	</LateralThrustRaw>
 	<LeftThrustButton>
@@ -76,7 +76,7 @@
 	</RightThrustButton>
 	<VerticalThrustRaw>
 		<Binding Device="T16000M" DeviceIndex="1" Key="Joy_YAxis" />
-		<Inverted Value="1" />
+		<Inverted Value="0" />
 		<Deadzone Value="0.00000000" />
 	</VerticalThrustRaw>
 	<UpThrustButton>
@@ -89,7 +89,7 @@
 	</DownThrustButton>
 	<AheadThrust>
 		<Binding Device="T16000M" DeviceIndex="1" Key="Joy_RZAxis" />
-		<Inverted Value="1" />
+		<Inverted Value="0" />
 		<Deadzone Value="0.00000000" />
 	</AheadThrust>
 	<ForwardThrustButton>
