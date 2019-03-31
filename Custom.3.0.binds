@@ -275,7 +275,7 @@
 		<Secondary Device="T16000M" DeviceIndex="0" Key="Joy_4" />
 	</UseBoostJuice>
 	<HyperSuperCombination>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="T16000M" DeviceIndex="1" Key="Joy_8" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HyperSuperCombination>
 	<Supercruise>
