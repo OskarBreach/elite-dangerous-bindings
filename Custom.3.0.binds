@@ -488,7 +488,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusRadarPanel>
 	<FocusRightPanel>
-		<Primary Device="T16000M" DeviceIndex="0" Key="Joy_11" />
+		<Primary Device="T16000M" DeviceIndex="1" Key="Joy_13" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusRightPanel>
 	<LeftPanelFocusOptions Value="" />
@@ -885,11 +885,11 @@
 		<Secondary Device="T16000M" DeviceIndex="0" Key="Joy_6" />
 	</UIFocus_Buggy>
 	<FocusLeftPanel_Buggy>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="T16000M" DeviceIndex="1" Key="Joy_11" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusLeftPanel_Buggy>
 	<FocusCommsPanel_Buggy>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="T16000M" DeviceIndex="1" Key="Joy_12" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusCommsPanel_Buggy>
 	<QuickCommsPanel_Buggy>
@@ -901,7 +901,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusRadarPanel_Buggy>
 	<FocusRightPanel_Buggy>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="T16000M" DeviceIndex="0" Key="Joy_11" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusRightPanel_Buggy>
 	<GalaxyMapOpen_Buggy>
