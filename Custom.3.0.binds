@@ -352,12 +352,12 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</TargetNextRouteSystem>
 	<PrimaryFire>
-		<Primary Device="{NoDevice}" Key="" />
-		<Secondary Device="T16000M" DeviceIndex="0" Key="Joy_1" />
+		<Primary Device="T16000M" DeviceIndex="0" Key="Joy_1" />
+		<Secondary Device="{NoDevice}" Key="" />
 	</PrimaryFire>
 	<SecondaryFire>
-		<Primary Device="{NoDevice}" Key="" />
-		<Secondary Device="T16000M" DeviceIndex="0" Key="Joy_2" />
+		<Primary Device="T16000M" DeviceIndex="1" Key="Joy_1" />
+		<Secondary Device="{NoDevice}" Key="" />
 	</SecondaryFire>
 	<CycleFireGroupNext>
 		<Primary Device="{NoDevice}" Key="" />
@@ -368,8 +368,8 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</CycleFireGroupPrevious>
 	<DeployHardpointToggle>
-		<Primary Device="{NoDevice}" Key="" />
-		<Secondary Device="T16000M" DeviceIndex="0" Key="Joy_8" />
+		<Primary Device="T16000M" DeviceIndex="0" Key="Joy_2" />
+		<Secondary Device="{NoDevice}" Key="" />
 	</DeployHardpointToggle>
 	<DeployHardpointsOnFire Value="1" />
 	<ToggleButtonUpInput>
